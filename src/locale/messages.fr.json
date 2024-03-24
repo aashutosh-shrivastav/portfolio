@@ -1,0 +1,9 @@
+{
+  "locale": "fr-CA",
+  "translations": {
+    "logoText": "Aashutosh",
+    "greetingMessage": "Salut !",
+    "heroName": "Aashutosh Shrivastav",
+    "heroJobTitle": "Ingénieur logiciel (développeur web Fullstack)"
+  }
+}
